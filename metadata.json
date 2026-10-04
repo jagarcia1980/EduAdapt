@@ -1,0 +1,6 @@
+{
+  "name": "EduAdapt - Adaptador de Material Didáctico",
+  "description": "Adapta material didáctico en HTML y PDF para alumnos que no dominan el español, traduciendo y contextualizando sin perder diseño, código ni ejercicios.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
